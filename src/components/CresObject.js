@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 const CresObject = () => {
   return (
-    <div>
-      <div className="container">
+    <div className="CresObject">
+      <div className="container CresObject">
         <div className="row">
           <div className="col-4">
             <h3>MISSION</h3>
