@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import  Navbar  from './components/Navbar';
 import Banner from './components/Banner';
 import CresObject  from './components/CresObject';
+import Evenements from './components/Evenements';
 import './App.css';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
   <Navbar/>
   <Banner/>
   <CresObject/>
+  <Evenements/>
     <Switch>
       <Route />
     </Switch>

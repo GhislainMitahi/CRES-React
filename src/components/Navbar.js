@@ -5,8 +5,8 @@ import slack from '../Images/slack.png';
 
 const Navbar = ()=>{
     return (
-        <div>
-            <nav className="navbar navbar-dark bg-info">
+        <div className="navbar1">
+            <nav className="navbar navbar-dark">
                <div className="container">
                 <Link className="navbar-brand"><img src={slack} /></Link>
                     <div className="navbar1">
