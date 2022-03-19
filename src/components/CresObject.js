@@ -13,13 +13,38 @@ const CresObject = ()=>{
                 chan-gement voulu.
               </p>
             </div>
-            <div>
+            <div className="col-4">
               <h3>VISION</h3>
               <p>
                 Que les jeunes scientifiques soient des principaux acteurs du
                 chan-gement voulu
               </p>
             </div>
+          </div>
+          <div>
+            <h3>OBJECTIFS</h3>
+            <ol>
+              <li>
+                {" "}
+                Offrir un cadre proprice de recherche technique et scientifique
+                pour trouver des solutions adaptees aux problemes de notre
+                société;
+              </li>
+              <li>
+                Assurer un accompagnement juridique et technique aux membres
+                chercheurs du centre;
+              </li>
+              <li>
+                {" "}
+                Creer des techniques de developpement qui valorisent l'humain et
+                l'environnement;
+              </li>
+              <li>
+                S'assurer que les resultats de nos recherches seront benefiques
+                a la societe en facilitant l'obtention du financement pour leurs
+                executions.
+              </li>
+            </ol>
           </div>
         </div>
       </div>
