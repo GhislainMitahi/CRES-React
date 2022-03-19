@@ -1,21 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import slack from '../Images/slack.png';
 
-
-const Navbar = ()=>{
+const Banner = ()=>{
     return (
         <div>
-            <nav className="navbar navbar-dark bg-info">
-               <div className="container">
-                <Link className="navbar-brand"><img src={slack} /></Link>
-                    <div className="navbar1">
-                        <button className="btn btn-outline-light my-2 my-sm-0" type="submit">Joindre</button>
-                    </div>
-               </div>
-                
-            </nav>
-            {/* <div>
+            <div>
                 <div className="banner">
                     <div className="container">
                         <div className="row">
@@ -36,9 +25,9 @@ const Navbar = ()=>{
                     </div>
                 </div>
 
-            </div> */}
+            </div>
         </div>
     )
 }
 
-export default Navbar;
+export default Banner
