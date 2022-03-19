@@ -1,0 +1,163 @@
+body{
+	background-color: #f6efe8;
+}
+#logo{
+	width: 90px;
+	margin-top: 15px;
+}
+#linkMenu{
+	margin: 10px;
+	color: #001;
+}
+#menuC{
+	background-color: #f6efe8;
+}
+#menuD{
+}
+#btn1{
+	margin: 5px;
+	background-color: #f6efe8;
+	color: #611f69;
+	border: solid #611f69;
+}
+#btn2{
+	margin: 5px;
+	background-color: #611f69 ;
+	color: #FFF;
+	border:#f6efe8;
+}
+#pub p{
+	color: #FFF;
+	margin-left: 15px;
+	font-size: 18px;
+	font-family: verdana;
+}
+#p1{
+	font-size: 14px;
+	margin-left: 100px;
+}
+#p2{
+	margin-left: 100px;
+	font-size: 33px;
+	font-weight: bold;
+}
+#p3{
+	margin-left: 100px;
+	font-family: verdana;
+}
+#p4{
+	margin-left: 100px;
+	margin-top: 10px;
+	font-size: 13px;
+	font-family: verdana;
+}
+#btn3{
+	background-color: #FFF;
+	color: #611f69;
+	width: 70%;
+	height: 60px;
+	border: solid #611f69;
+	margin-left: 100px;
+	text-align: center;
+	border-radius: 10px;
+}
+#btn4{
+	background-color: #611f69 ;
+	color: #FFF;
+	width: 70%;
+	height: 60px;
+	border: solid #f6efe8;
+	margin-top: 5px;
+	margin-left: 100px;
+	text-align: center;
+	border-radius: 10px;
+}
+#p5{
+	font-size: 33px;
+	font-weight: bold;
+}
+#p6{
+	font-family: verdana;
+}
+#p7{
+	font-family: verdana;
+	color: blue;
+}
+#imPetit{
+	display: block;
+	margin-left: 100px;
+}
+#lien1{
+	color: #1264A3;
+	text-decoration: underline;
+	margin-left: 100px;
+}
+#p8{
+	font-size: 15px;
+	font-family: verdana;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+#p9-1{
+	font-family: verdana;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 50px;
+}
+#p9-2{
+	font-family: verdana;
+	font-size: 18px;
+	color: blue;
+	text-align: center;
+}
+#pp10{
+	font-size: 25px;
+	margin-top: 50px;
+}
+#liste2{
+	margin-left: 100px;
+}
+#p10{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: verdana;
+	color: #FFF;
+	text-align: center;
+}
+#btn5{
+	background-color: #FFF;
+	color: #611f69;
+	height: 60px;
+	border: solid #611f69;
+	margin-left: 100px;
+	margin-top: 50px;
+	text-align: center;
+	border-radius: 10px;
+}
+#btn6{
+	background-color: #611f69 ;
+	color: #FFF;
+	height: 60px;
+	border: solid #f6efe8;
+	margin-top: 50px;
+	text-align: center;
+	border-radius: 10px;
+}
+#t{
+	margin-top: 30px;
+	font-size: 13px;
+	font-weight: bold;
+}
+#tt{
+	font-size: 12px;
+}
+#pp{
+	display: inline-block;
+	font-size: 14px;
+}
+#ppp{
+	display: inline-block;
+	font-size: 12px;
+	color: gray;
+}
