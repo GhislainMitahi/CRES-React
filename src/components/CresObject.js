@@ -66,6 +66,22 @@ const CresObject = () => {
                 la population
               </p>
             </div>
+            <div className="col-3">
+              <h4>Valeur</h4>
+              <p>
+                Developper la sous-region du Kivu par application des methodes
+                sci-entifiques dans la recherche de solutions aux problemes de
+                la population
+              </p>
+            </div>
+            <div className="col-3">
+              <h4>Valeur</h4>
+              <p>
+                Developper la sous-region du Kivu par application des methodes
+                sci-entifiques dans la recherche de solutions aux problemes de
+                la population
+              </p>
+            </div>
           </div>
         </div>
       </div>
