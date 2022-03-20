@@ -22,7 +22,7 @@ const Equipe = ()=>{
                         <div className="row pt-1">
                             <div className="team2">
                                 <img src={team1}  />
-                                <p className="title5">JACQUES NDAVARO</p>
+                                <p className="title5">Pascal Byumanine</p>
                                 <p className="details5">Coordinateur</p>
                             </div>
                             <div className="team2">
