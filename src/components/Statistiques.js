@@ -13,7 +13,7 @@ const Statistiques = ()=>{
                         </div>
                         <div className="col-3">
                             <p>&nbsp;</p>
-                            <h2 className="title4">4+ ANS</h2>
+                            <h2 className="title4">4+ <label className="label1">ANS</label> </h2>
                             <p>DE SERVICES ET D'EXPERIENCES</p>
                         </div>
                         <div className="col-3">
@@ -34,7 +34,7 @@ const Statistiques = ()=>{
                             <p>AGENTS PERMANENTS</p>
                         </div>
                         <div className="col-3">
-                            <p>USD</p>
+                            <p></p>
                             <h2 className="title4">1000+</h2>
                             <p>JEUNES FORMES</p>
                         </div>
