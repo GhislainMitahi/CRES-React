@@ -39,34 +39,41 @@
 .nav-link1{
   color: #fff!important;
   padding-left: 40px;
+  font-family: Century Gothic;
 }
 
 .banner{
-  background-image: url('Images/1.jpg');
+  background-image: url('Images/2.jpg');
   height: 690px;
   color: #fff;
   padding-top: 200px;
   font-size: 18px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Century Gothic;
 }
 .navbar1{
   background-color: #014566;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Century Gothic;
+  border: 1px solid #243B44;
+  box-shadow: 5px 5px 5px #243B44;
 }
 .logo{
   height: 70px;
 }
 .menu2{
   padding-left: 150px;
+  font-family: Century Gothic;
 }
 .CresObject{
   background-color: #fff!important;
+  font-family: Century Gothic;
 }
 .evenements{
   background-color: #004264;
   height: 300px;
+  font-family: Century Gothic;
 }
 .statistiques{
   background-color: #2D2D2D;
   height: 300px;
+  font-family: Century Gothic;
 }

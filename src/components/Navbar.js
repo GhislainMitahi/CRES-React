@@ -17,7 +17,7 @@ const Navbar = () => {
               <Link className="navbar-link nav-link1">Opportinutés </Link>
               <Link className="navbar-link nav-link1">Contact </Link>
           </div>
-          <div className="navbar1">
+          <div className="">
             <button
               className="btn btn-outline-light my-2 my-sm-0"
               type="submit"
