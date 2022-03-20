@@ -56,4 +56,9 @@
 }
 .evenements{
   background-color: #004264;
+  height: 300px;
+}
+.statistiques{
+  background-color: #2D2D2D;
+  height: 300px;
 }
