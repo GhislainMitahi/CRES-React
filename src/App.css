@@ -43,7 +43,7 @@
 }
 
 .banner{
-  background-image: url('Images/2.jpg');
+  background-image: url('Images/2.png');
   height: 690px;
   color: #fff;
   padding-top: 200px;
@@ -64,9 +64,21 @@
 .logo{
   height: 70px;
 }
+.title1{
+  font-weight: bold;
+}
+.details1{
+  font-weight: lighter;
+  color: #C5CFD6;
+  font-size: 15px;
+  text-align: justify;
+}
 .menu2{
-  padding-left: 150px;
+  /* padding-left: 250px; */
   font-family: Century Gothic;
+}
+.nav-link2{
+  color: #fff;
 }
 .CresObject{
   background-color: #fff!important;
