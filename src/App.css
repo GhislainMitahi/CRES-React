@@ -92,8 +92,12 @@
 }
 .evenements{
   background-color: #004264;
-  height: 300px;
   font-family: Century Gothic;
+  color: #fff;
+}
+.title3{
+  color: #fff;;
+  font-weight: bold;
 }
 .statistiques{
   background-color: #2D2D2D;
