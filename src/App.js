@@ -7,6 +7,7 @@ import Evenements from './components/Evenements';
 import Statistiques from './components/Statistiques';
 import Equipe from './components/Equipe';
 import Equipe2 from './components/Equipe2';
+import Footer from './components/Footer';
 import './App.css';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
   <Statistiques/>
   <Equipe/>
   <Equipe2/>
+  <Footer/>
     <Switch>
       <Route />
     </Switch>
