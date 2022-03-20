@@ -126,5 +126,26 @@
   font-family: Century Gothic;
 }
 .team1{
-  padding-left: 500px;
+  padding-left: 600px;
+}
+.team2{
+  background-color: #004264;
+  width: 230px;
+  height: 382px;
+  margin-right: 10px;
+}
+.team2 >img{
+  height: 340px;
+  width: 100%;
+}
+.title5{
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  padding-top: 10px;
+}
+.details5{
+  font-size: 14px;
+  margin-top: -20px;
+  font-weight: bold;
 }
