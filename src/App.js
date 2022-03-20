@@ -5,6 +5,7 @@ import Banner from './components/Banner';
 import CresObject  from './components/CresObject';
 import Evenements from './components/Evenements';
 import Statistiques from './components/Statistiques';
+import Equipe from './components/Equipe';
 import './App.css';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
   <CresObject/>
   <Evenements/>
   <Statistiques/>
+  <Equipe/>
     <Switch>
       <Route />
     </Switch>
