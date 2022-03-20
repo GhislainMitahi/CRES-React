@@ -3,9 +3,8 @@ import { Link } from "react-router-dom";
 
 const Banner = ()=>{
     return (
-        <div>
+        <div className="banner">
             <div>
-                <div className="banner">
                     <div className="container">
                         <div className="row">
                             <div className="col-6">
@@ -22,7 +21,6 @@ const Banner = ()=>{
                                 </ul>
                             </div>
                         </div>
-                    </div>
                 </div>
 
             </div>
