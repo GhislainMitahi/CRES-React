@@ -149,3 +149,9 @@
   margin-top: -20px;
   font-weight: bold;
 }
+.equipe2{
+  background-color: #fff;
+}
+.equipe2 >p{
+  color: #68899E;
+}
