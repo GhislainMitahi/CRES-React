@@ -1,6 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import team1 from "../Images/team1.png";
+import OwlCarousel from 'react-owl-carousel';
+import 'owl.carousel/dist/assets/owl.carousel.css';
+import 'owl.carousel/dist/assets/owl.theme.default.css';
 
 const Equipe2 = () => {
   return (
@@ -13,26 +16,53 @@ const Equipe2 = () => {
           </p>
         </div>
         <div className="row">
-          <div className="team2">
+          <OwlCarousel className='owl-theme' 
+          items={3}
+          autoplay
+          nav
+          dots
+          loop>
+          <div className="team2 item">
             <img src={team1} />
             <p className="title5">Pascal Byumanine</p>
             <p className="details5">Coordinateur</p>
           </div>
-          <div className="team2">
+          <div className="team2 item">
             <img src={team1} />
             <p className="title5">Pascal Byumanine</p>
             <p className="details5">Coordinateur</p>
           </div>
-          <div className="team2">
+          <div className="team2 item">
             <img src={team1} />
             <p className="title5">Pascal Byumanine</p>
             <p className="details5">Coordinateur</p>
           </div>
-          <div className="team2">
+          <div className="team2 item">
             <img src={team1} />
             <p className="title5">Pascal Byumanine</p>
             <p className="details5">Coordinateur</p>
           </div>
+          <div className="team2 item">
+            <img src={team1} />
+            <p className="title5">Pascal Byumanine</p>
+            <p className="details5">Coordinateur</p>
+          </div>
+          <div className="team2 item">
+            <img src={team1} />
+            <p className="title5">Pascal Byumanine</p>
+            <p className="details5">Coordinateur</p>
+          </div>
+          <div className="team2 item">
+            <img src={team1} />
+            <p className="title5">Pascal Byumanine</p>
+            <p className="details5">Coordinateur</p>
+          </div>
+          <div className="team2 item">
+            <img src={team1} />
+            <p className="title5">Pascal Byumanine</p>
+            <p className="details5">Coordinateur</p>
+          </div>
+          </OwlCarousel>
         </div>
       </div>
     </div>
