@@ -116,3 +116,7 @@
   font-weight: lighter;
   color: #706F6F;
 }
+.separator{
+  background-color: #161B1E;
+  height: 15px;
+}
