@@ -10,6 +10,9 @@ const Footer = ()=>{
                     <div className="col-5">
                         <hr/>
                     </div>
+                    <div className="row">
+
+                    </div>
                 </div>
             </div>
         </div>
