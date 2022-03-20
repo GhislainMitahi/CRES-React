@@ -5,7 +5,7 @@ const Evenements = () => {
   return (
     <div className="evenements">
       <div className="container">
-        <div className="row pt-5">
+        <div className="row pt-5 pb-5">
           <div className="col-2">
             <ul className="menu2 ">
               <li className="nav-link ">
