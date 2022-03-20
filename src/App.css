@@ -44,7 +44,7 @@
 
 .banner{
   background-image: url('Images/2.png');
-  height: 690px;
+  height: 660px;
   color: #fff;
   padding-top: 200px;
   font-size: 18px;
@@ -72,6 +72,7 @@
   color: #C5CFD6;
   font-size: 15px;
   text-align: justify;
+  opacity: 0.8;
 }
 .menu2{
   /* padding-left: 250px; */
