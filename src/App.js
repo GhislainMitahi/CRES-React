@@ -6,6 +6,7 @@ import CresObject  from './components/CresObject';
 import Evenements from './components/Evenements';
 import Statistiques from './components/Statistiques';
 import Equipe from './components/Equipe';
+import Equipe2 from './components/Equipe2';
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
   <Evenements/>
   <Statistiques/>
   <Equipe/>
+  <Equipe2/>
     <Switch>
       <Route />
     </Switch>
