@@ -30,7 +30,7 @@ const Evenements = () => {
           </div>
           <div className="col-8">
               <h1 className="title3">2020</h1>
-              <ul>
+              <ul >
                   <li> CRES got certified as a national center of innovation</li>
                   <li>Ujuzi got launched for training in programming</li>
                   <li>Virtus</li>
