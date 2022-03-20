@@ -84,6 +84,10 @@
 .CresObject{
   background-color: #fff!important;
   font-family: Century Gothic;
+  padding-top: 20px;
+}
+.title2{
+  font-weight: bold;
 }
 .evenements{
   background-color: #004264;

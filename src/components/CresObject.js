@@ -7,14 +7,14 @@ const CresObject = () => {
       <div className="container CresObject">
         <div className="row">
           <div className="col-4">
-            <h3>MISSION</h3>
+            <h3 className="title2">MISSION</h3>
             <p>
               Que les jeunes scientifiques soient des principaux acteurs du
               chan-gement voulu.
             </p>
           </div>
           <div className="col-4">
-            <h3>VISION</h3>
+            <h3 className="title2">VISION</h3>
             <p>
               Developper la sous-region du Kivu par application des methodes
               sci-entifiques dans la recherche de solutions aux problemes de la
@@ -23,7 +23,7 @@ const CresObject = () => {
           </div>
         </div>
         <div>
-          <h3>OBJECTIFS</h3>
+          <h3 className="title2">OBJECTIFS</h3>
           <ol>
             <li>
               {" "}
@@ -48,10 +48,9 @@ const CresObject = () => {
           </ol>
         </div>
         <div>
-          <h3>VALUERS</h3>
+          <h3 className="title2">VALUERS</h3>
           <div className="row">
             <div className="col-3">
-              <h4>Valeur</h4>
               <p>
                 Developper la sous-region du Kivu par application des methodes
                 sci-entifiques dans la recherche de solutions aux problemes de
@@ -59,7 +58,6 @@ const CresObject = () => {
               </p>
             </div>
             <div className="col-3">
-              <h4>Valeur</h4>
               <p>
                 Developper la sous-region du Kivu par application des methodes
                 sci-entifiques dans la recherche de solutions aux problemes de
@@ -67,7 +65,6 @@ const CresObject = () => {
               </p>
             </div>
             <div className="col-3">
-              <h4>Valeur</h4>
               <p>
                 Developper la sous-region du Kivu par application des methodes
                 sci-entifiques dans la recherche de solutions aux problemes de
@@ -75,7 +72,6 @@ const CresObject = () => {
               </p>
             </div>
             <div className="col-3">
-              <h4>Valeur</h4>
               <p>
                 Developper la sous-region du Kivu par application des methodes
                 sci-entifiques dans la recherche de solutions aux problemes de
