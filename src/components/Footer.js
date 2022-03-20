@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Footer = ()=>{
     return (
         <div className="footer">
-            <div className="container pt-3">
+            <div className="container pt-3 pb-5">
                 <div className="text-center text-light">
                     <h5>CENTRE DE RECHERCHE ET D'EXPERTISE SCIENTIFIQUE</h5>
                     <div className="col-5">
@@ -37,8 +37,10 @@ const Footer = ()=>{
                         <div className="text-left col-3">
                             <h5>PLAN DU SITE</h5><br/>
                             <p>Restez toujours informé</p>
-                            <input type="email" name="email" placeholder="exemple@mail.com" className="form"/>
+                            <label><input type="email" name="email" placeholder="exemple@mail.com" className="form-control"/></label>
                             <input type="submit" value="Send" className="btn btn-light"/>
+                            <p>info@crsdi.org</p>
+                            <p>32, Av. CRES, Q. Buhimba, Goma, RDC</p>
                         </div>
                     </div>
                 </div>
